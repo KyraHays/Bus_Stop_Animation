@@ -1,4 +1,3 @@
-
 const busStops = [
     [-71.093729, 42.359244],
     [-71.094915, 42.360175],
@@ -40,4 +39,3 @@ const busStops = [
   if (typeof module !== 'undefined') {
     module.exports = { move };
   }
-  
