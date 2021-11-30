@@ -1,18 +1,18 @@
 # Bus_Stop_Animation
 
-##Project Name:
+## Project Name:
 Real Time Bus Tracker
 
-##Description:
+## Description:
 
-##Installation / How to run:
+## Installation / How to run:
 
-##Usage:
+## Usage:
 
-##Support:
+## Support:
 Staff at MIT.
 
-##Roadmap:
+## Roadmap:
 License Information:
 MIT License
 
