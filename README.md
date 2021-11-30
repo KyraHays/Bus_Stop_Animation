@@ -4,8 +4,10 @@
 Real Time Bus Tracker
 
 ## Description:
+This map shows each bus stop from MIT to Harvard.
 
 ## Installation / How to run:
+Copy the .css, .js, and .html files in the same directory, load the index.html file into a web browser
 
 ## Usage:
 
@@ -13,7 +15,9 @@ Real Time Bus Tracker
 Staff at MIT.
 
 ## Roadmap:
-License Information:
+I would like to add some zoom controls and change the color of the markers. I think it would also be cool to add some buttons to choose the map style (dark, street, topographic, etc.).
+
+## License Information:
 MIT License
 
 Copyright (c) 2020 John Williams
